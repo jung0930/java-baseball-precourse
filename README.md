@@ -26,4 +26,4 @@
 * [X] 컴퓨터의 Balls와 사용자의 Balls를 비교하여 결과를 내는 Referee 도메인 객체 생성.
 * [X] 사용자의 입력값에 대한 결과값을 가지는 Result 도메인 객체 생성
   * 해당 BallType이 있는지, 몇개가 있는지 확인할 수 있다.
-* [ ] Controller, UI 단을 작업한다.
+* [X] Controller, UI 단을 작업한다.
